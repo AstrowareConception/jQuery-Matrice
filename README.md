@@ -1,5 +1,5 @@
 # Matrice de formes
-Créer une matrice (voir [matrice.jpg](matrice.jpg)) de formes à rendre cliquable.
+Créer une page web contenant matrice (voir [matrice.jpg](matrice.jpg)) de formes à rendre cliquable.
 
 # Objectifs Pédagogiques
 * Maitriser les fonctions _class_ sur jQuery (.addClass, .removeClass, .toggleClass, .hasClass)
